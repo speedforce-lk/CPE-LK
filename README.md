@@ -7,7 +7,7 @@ Not Conformed - 🚫
 
 ⚠️if you want to add more details , pleace make pull request.
 
-01.ZLT S10
+01.ZLT S10---------------------------------------------------------
 
 CAT 4
 
@@ -23,7 +23,7 @@ C.SLTMobitel (NEW)<br>
   1.FDD / TDD( Band 1,3,5,38,41 ) 🚫<br>
   2.4G Only ✅<br>
 
-02.ZLT S20 
+02.ZLT S20---------------------------------------------------------
 
 CAT 4
 
@@ -35,7 +35,7 @@ B.SLTMobitel (NEW)<br>
   1.FDD / TDD( Band 1,3,5,38,41 ) ✅<br>
   2.2G/3G/4G ✅<br>
 
-02.ZLT S12 pro
+02.ZLT S12 Pro---------------------------------------------------------
 
 CAT 6
 
