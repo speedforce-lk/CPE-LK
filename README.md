@@ -11,40 +11,40 @@ Not Conformed - 🚫
 
 CAT 4
 
-A. Dialog 
-  1.TDD Only ( Band 41 ) 🚫
-  2.4G Only ✅
+A. Dialog <br>
+  1.TDD Only ( Band 41 ) 🚫<br>
+  2.4G Only ✅<br>
   
-B.Mobitel (OLD)
-  1.FDD Only (Band 1,3,5) 🚫
-  2.4G Only ✅
+B.Mobitel (OLD)<br>
+  1.FDD Only (Band 1,3,5) 🚫<br>
+  2.4G Only ✅<br>
   
-C.SLTMobitel (NEW)
-  1.FDD / TDD( Band 1,3,5,38,41 ) 🚫
-  2.4G Only ✅
+C.SLTMobitel (NEW)<br>
+  1.FDD / TDD( Band 1,3,5,38,41 ) 🚫<br>
+  2.4G Only ✅<br>
 
 02.ZLT S20 
 
 CAT 4
 
-A.Mobitel (OLD)
-  1.FDD Only ( Band 1,3,5)🚫
-  2.2G/3G/4G ✅
+A.Mobitel (OLD)<br>
+  1.FDD Only ( Band 1,3,5)🚫<br>
+  2.2G/3G/4G ✅<br>
   
-B.SLTMobitel (NEW)
-  1.FDD / TDD( Band 1,3,5,38,41 ) ✅
-  2.2G/3G/4G ✅
+B.SLTMobitel (NEW)<br>
+  1.FDD / TDD( Band 1,3,5,38,41 ) ✅<br>
+  2.2G/3G/4G ✅<br>
 
 02.ZLT S12 pro
 
 CAT 6
 
-A. Dialog 
-  1.FDD/TDD  ( Band 3,8,41 ) ✅
-  2.2G/3G/4G ✅
+A. Dialog <br>
+  1.FDD/TDD  ( Band 3,8,41 ) ✅<br>
+  2.2G/3G/4G ✅<br>
   
-C.SLTMobitel (NEW)
-  1.FDD / TDD( Band 1,3,5,38,41 )🚫
-  2.2G/3G/4G🚫
+C.SLTMobitel (NEW)<br>
+  1.FDD / TDD( Band 1,3,5,38,41 )🚫<br>
+  2.2G/3G/4G🚫<br>
   
   
