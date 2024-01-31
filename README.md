@@ -44,7 +44,7 @@ A. Dialog <br>
   2.2G/3G/4G ✅<br>
   
 C.SLTMobitel (NEW)<br>
-  1.FDD / TDD( Band 1,3,5,38,41 )🚫<br>
+  1.FDD / TDD( Band 1,3,5,38,41 )✅<br>
   2.2G/3G/4G🚫<br>
   
   
