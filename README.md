@@ -12,7 +12,7 @@ Not Conformed - 🚫<br>
 CAT 4
 
 A. Dialog <br>
-  1.TDD Only ( Band 41 ) 🚫<br>
+  1.TDD Only ( Band 41 ) ✅<br>
   2.4G Only ✅<br>
   
 B.Mobitel (OLD)<br>
