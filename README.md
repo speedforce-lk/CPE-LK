@@ -12,7 +12,7 @@ Not Conformed - 🚫<br>
 CAT 4
 
 A. Dialog <br>
-  1.TDD Only ( Band 41 ) ✅<br>
+  1.TDD Only ( Band 40 ) ✅<br>
   2.4G Only ✅<br>
   
 B.Mobitel (OLD)<br>
@@ -40,7 +40,7 @@ B.SLTMobitel (NEW)<br>
 CAT 6
 
 A. Dialog <br>
-  1.FDD/TDD  ( Band 3,8,41 ) ✅<br>
+  1.FDD/TDD  ( Band 3,8,40 ) ✅<br>
   2.2G/3G/4G ✅<br>
   
 C.SLTMobitel (NEW)<br>
