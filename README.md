@@ -43,8 +43,12 @@ A. Dialog <br>
   1.FDD/TDD  ( Band 3,8,40 ) ✅<br>
   2.2G/3G/4G ✅<br>
   
-C.SLTMobitel (NEW)<br>
+B.SLTMobitel (NEW)<br>
   1.FDD / TDD( Band 1,3,5,38,41 )✅<br>
   2.2G/3G/4G🚫<br>
   
-  
+03.ZTE MF293N
+
+A. SLT Prepaid / Postpaid 
+  1.FDD/TDD ( Band 3,5,38,40 ) ✅<br>
+  2.3G/4G ✅<br>
