@@ -49,6 +49,6 @@ B.SLTMobitel (NEW)<br>
   
 03.ZTE MF293N
 
-A. SLT Prepaid / Postpaid 
+A.SLT Prepaid / Postpaid 
   1.FDD/TDD ( Band 3,5,38,41 ) ✅<br>
   2.3G/4G ✅<br>
