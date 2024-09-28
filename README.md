@@ -117,6 +117,29 @@ A.SLT Prepaid / Postpaid
 </table>
 
 
-
+<h2>5G Bands in Sri Lanka</h2>
+<table>
+    <tr>
+        <th>Band</th>
+        <th>Frequency Band (MHz)</th>
+        <th>Frequency Range (MHz)</th>
+        <th>Bandwidth (MHz)</th>
+        <th>ISPs</th>
+    </tr>
+    <tr>
+        <td>n78</td>
+        <td>3500</td>
+        <td>3300 - 3800</td>
+        <td>400</td>
+        <td>Dialog, Mobitel</td>
+    </tr>
+    <tr>
+        <td>n79</td>
+        <td>4700</td>
+        <td>4400 - 5000</td>
+        <td>600</td>
+        <td>Dialog</td>
+    </tr>
+</table>
 
 
