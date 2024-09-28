@@ -52,3 +52,15 @@ B.SLTMobitel (NEW)<br>
 A.SLT Prepaid / Postpaid 
   1.FDD/TDD ( Band 3,5,38,41 ) ✅<br>
   2.3G/4G ✅<br>
+
+
+
+  
+  # 2G,3G,4G Frequency bands & allocated bandwidths by ISP
+
+  ![image](https://github.com/user-attachments/assets/f0af345b-dbe9-482c-a43b-266fc1d52cb8) <br>
+  ![image](https://github.com/user-attachments/assets/ce540fa5-056c-4e8b-b195-0867419886d8) <br>
+  ![image](https://github.com/user-attachments/assets/28a09d8e-da3f-44ab-af8c-5a784794ee9a)
+
+
+
