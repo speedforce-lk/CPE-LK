@@ -72,49 +72,41 @@ A.SLT Prepaid / Postpaid
         <th>Band</th>
         <th>Frequency Band (MHz)</th>
         <th>Frequency Range (MHz)</th>
-        
     </tr>
     <tr>
         <td>1</td>
         <td>2100</td>
         <td>1920 - 1980 (uplink), 2110 - 2170 (downlink)</td>
-        
     </tr>
     <tr>
         <td>3</td>
         <td>1800</td>
         <td>1710 - 1785 (uplink), 1805 - 1880 (downlink)</td>
-        
     </tr>
     <tr>
         <td>5</td>
         <td>850</td>
         <td>824 - 849 (uplink), 869 - 894 (downlink)</td>
-        
     </tr>
     <tr>
         <td>8</td>
         <td>900</td>
         <td>880 - 915 (uplink), 925 - 960 (downlink)</td>
-        
     </tr>
     <tr>
         <td>38</td>
         <td>2600</td>
         <td>2570 - 2620 (TDD)</td>
-        
     </tr>
     <tr>
         <td>40</td>
         <td>2300</td>
         <td>2300 - 2400 (TDD)</td>
-        
     </tr>
     <tr>
         <td>41</td>
         <td>2500</td>
         <td>2496 - 2690 (TDD)</td>
-        
     </tr>
 </table>
 
